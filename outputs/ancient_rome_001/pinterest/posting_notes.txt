@@ -1,0 +1,9 @@
+Manual upload package for pinterest.
+Brand: History Vision.
+Post purpose: product_linked.
+Conversion goal: sale.
+Pinterest uses a separate pin layout, not the carousel slide template. Goal: search/discovery, saves, outbound clicks, and product interest.
+Goal: direct sales. Use the exact matching product page. Do not send this post to an unrelated storefront.
+No audio suggestion configured.
+Product URL: https://example.com/products/ancient-rome-through-a-modern-lens
+No unofficial login automation is used.

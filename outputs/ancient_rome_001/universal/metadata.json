@@ -1,0 +1,20 @@
+{
+  "post_id": "ancient_rome_001",
+  "brand": "history_vision",
+  "brand_display_name": "History Vision",
+  "template": "reveal_4_slide",
+  "product_url": "https://example.com/products/ancient-rome-through-a-modern-lens",
+  "post_purpose": "product_linked",
+  "product_status": "available",
+  "cta_style": "auto",
+  "conversion_goal": "sale",
+  "platforms": [
+    "tiktok",
+    "instagram",
+    "pinterest",
+    "youtube"
+  ],
+  "pinterest_uses_separate_pin_layout": true,
+  "alt_text": "A realistic modern-camera reconstruction of an Ancient Roman street scene.",
+  "generated_at": "2026-06-04T11:11:04"
+}
