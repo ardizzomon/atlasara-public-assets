@@ -1,0 +1,10 @@
+Manual upload package for facebook.
+Brand: History Vision.
+Post purpose: product_linked.
+Conversion goal: sale.
+Goal: direct sales. Use the exact matching product page. Do not send this post to an unrelated storefront.
+Upload the slide PNG files in order.
+Paste caption.txt and hashtags.txt into the post composer.
+No audio suggestion configured.
+Product URL: https://example.com/products/ancient-rome-through-a-modern-lens
+No unofficial login automation is used.

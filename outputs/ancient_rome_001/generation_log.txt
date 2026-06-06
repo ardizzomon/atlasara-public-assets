@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-04T11:11:08",
+  "timestamp": "2026-06-06T14:30:46",
   "input_file": "inputs\\example_ancient_rome.json",
   "template": "reveal_4_slide",
   "created_files": [
@@ -29,6 +29,13 @@
     "instagram/caption.txt",
     "instagram/hashtags.txt",
     "instagram/posting_notes.txt",
+    "facebook\\slide_1.png",
+    "facebook\\slide_2.png",
+    "facebook\\slide_3.png",
+    "facebook\\slide_4.png",
+    "facebook/caption.txt",
+    "facebook/hashtags.txt",
+    "facebook/posting_notes.txt",
     "pinterest\\pin_1.png",
     "pinterest/pin_title.txt",
     "pinterest/pin_description.txt",

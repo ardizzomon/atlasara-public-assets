@@ -1,8 +1,15 @@
 {
   "post_id": "ancient_rome_001",
-  "published_at": "2026-06-05T20:01:46",
+  "published_at": "2026-06-06T14:30:58",
   "public_base_url": "https://ardizzomon.github.io/atlasara-public-assets/outputs/ancient_rome_001",
   "files": [
+    "facebook/caption.txt",
+    "facebook/hashtags.txt",
+    "facebook/posting_notes.txt",
+    "facebook/slide_1.png",
+    "facebook/slide_2.png",
+    "facebook/slide_3.png",
+    "facebook/slide_4.png",
     "generation_log.txt",
     "instagram/caption.txt",
     "instagram/hashtags.txt",
