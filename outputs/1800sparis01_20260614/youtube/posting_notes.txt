@@ -1,0 +1,12 @@
+Manual upload package for youtube.
+Brand: History Vision.
+Template: banner_artwork_mp4.
+Asset type: mp4_video.
+Post purpose: product_linked.
+Conversion goal: sale.
+Goal: direct sales. For TikTok, Instagram, Facebook, and YouTube, point viewers to the link in bio. For Pinterest, use the exact product URL as the pin destination. Do not send this post to an unrelated storefront.
+Upload video.mp4 as a YouTube Short. The MP4 is intentionally visual-only; add a niche-matched platform-native trending audio track during upload.
+Paste caption.txt and hashtags.txt into the post composer.
+Suggested audio: Choose current YouTube Shorts niche audio when available - YouTube Shorts native audio picker. (For Shorts, use platform-native audio if the upload flow offers it; otherwise use a future licensed embedded music layer.)
+Product URL: https://www.etsy.com/shop/Atlasaraa
+No unofficial login automation is used.

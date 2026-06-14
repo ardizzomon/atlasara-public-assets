@@ -1,0 +1,41 @@
+{
+  "post_id": "1800sparis01_20260614",
+  "brand": "history_vision",
+  "brand_display_name": "History Vision",
+  "template": "reveal_4_slide",
+  "platform_templates": {
+    "tiktok": "banner_artwork_mp4",
+    "youtube": "banner_artwork_mp4",
+    "instagram": "banner_artwork_mp4",
+    "facebook": "banner_artwork_mp4"
+  },
+  "pinterest_template": "pinterest_image_only",
+  "cta_slide": {
+    "mode": "single_product",
+    "header": "Paris 1800s Eiffel Tower",
+    "subheader": "History Through a Modern Lens",
+    "primary_product_id": "paris_1888",
+    "product_ids": [
+      "paris_1888"
+    ],
+    "button_text": "SHOP VIA LINK IN BIO",
+    "note": "",
+    "footer": "ATLASARA - LOST WORLDS, MADE FOR YOUR WALL",
+    "background_color": "#F6F2EA"
+  },
+  "product_url": "https://www.etsy.com/shop/Atlasaraa",
+  "post_purpose": "product_linked",
+  "product_status": "available",
+  "cta_style": "auto",
+  "conversion_goal": "sale",
+  "platforms": [
+    "tiktok",
+    "instagram",
+    "facebook",
+    "pinterest",
+    "youtube"
+  ],
+  "pinterest_uses_separate_pin_layout": true,
+  "alt_text": "",
+  "generated_at": "2026-06-14T16:42:07"
+}
