@@ -1,0 +1,11 @@
+Manual upload package for pinterest.
+Brand: History Vision.
+Post purpose: product_linked.
+Conversion goal: sale.
+Pinterest template: pinterest_image_only.
+Pinterest uses a separate pin layout, not the carousel slide template. Goal: search/discovery, saves, outbound clicks, and product interest.
+Upload pin_1.png, not the TikTok/Instagram carousel slides.
+Goal: direct sales. For TikTok, Instagram, Facebook, and YouTube, point viewers to the link in bio. For Pinterest, use the exact product URL as the pin destination. Do not send this post to an unrelated storefront.
+Suggested audio: No audio needed for the current Pinterest image pin template - Pinterest image pin. (Pinterest currently receives the image-only pin package.)
+Product URL: https://www.etsy.com/shop/Atlasaraa
+No unofficial login automation is used.

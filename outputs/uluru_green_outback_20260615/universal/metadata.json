@@ -1,0 +1,40 @@
+{
+  "post_id": "uluru_green_outback_20260615",
+  "brand": "history_vision",
+  "brand_display_name": "History Vision",
+  "template": "reveal_4_slide",
+  "platform_templates": {
+    "tiktok": "banner_artwork_mp4",
+    "instagram": "banner_artwork_mp4",
+    "facebook": "banner_artwork_mp4",
+    "youtube": "banner_artwork_mp4"
+  },
+  "pinterest_template": "pinterest_image_only",
+  "cta_slide": {
+    "mode": "single_product",
+    "header": "ULURU",
+    "subheader": "WHAT IF THE OUTBACK TURNED GREEN?",
+    "primary_product_id": "uluru_alternate_history",
+    "product_ids": [
+      "uluru_alternate_history"
+    ],
+    "button_text": "SHOP VIA LINK IN BIO",
+    "note": "First button: Uluru Alternate History",
+    "footer": "ATLASARA - LOST WORLDS, MADE FOR YOUR WALL"
+  },
+  "product_url": "https://www.etsy.com/shop/Atlasaraa",
+  "post_purpose": "product_linked",
+  "product_status": "available",
+  "cta_style": "direct_product",
+  "conversion_goal": "sale",
+  "platforms": [
+    "tiktok",
+    "instagram",
+    "facebook",
+    "pinterest",
+    "youtube"
+  ],
+  "pinterest_uses_separate_pin_layout": true,
+  "alt_text": "Alternate-history image of Uluru rising above a green, rain-soaked Australian outback.",
+  "generated_at": "2026-06-15T20:58:55"
+}
