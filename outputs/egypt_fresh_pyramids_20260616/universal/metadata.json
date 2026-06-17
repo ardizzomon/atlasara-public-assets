@@ -1,0 +1,40 @@
+{
+  "post_id": "egypt_fresh_pyramids_20260616",
+  "brand": "history_vision",
+  "brand_display_name": "History Vision",
+  "template": "reveal_4_slide",
+  "platform_templates": {
+    "tiktok": "banner_artwork_mp4",
+    "instagram": "banner_artwork_mp4",
+    "facebook": "banner_artwork_mp4",
+    "youtube": "banner_artwork_mp4"
+  },
+  "pinterest_template": "pinterest_image_only",
+  "cta_slide": {
+    "mode": "single_product",
+    "header": "ANCIENT EGYPT",
+    "subheader": "WHEN THE PYRAMIDS WERE STILL FRESH",
+    "primary_product_id": "egypt_fresh_pyramids",
+    "product_ids": [
+      "egypt_fresh_pyramids"
+    ],
+    "button_text": "SHOP VIA LINK IN BIO",
+    "note": "First button: Ancient Egypt Fresh Pyramids - Framed or Unframed Wall Art",
+    "footer": "ATLASARA - LOST WORLDS, MADE FOR YOUR WALL"
+  },
+  "product_url": "https://www.etsy.com/au/listing/4522828745/ancient-egypt-fresh-pyramids-framed-or",
+  "post_purpose": "product_linked",
+  "product_status": "available",
+  "cta_style": "direct_product",
+  "conversion_goal": "sale",
+  "platforms": [
+    "tiktok",
+    "instagram",
+    "facebook",
+    "pinterest",
+    "youtube"
+  ],
+  "pinterest_uses_separate_pin_layout": true,
+  "alt_text": "Alternate-history image of Ancient Egypt with bright, fresh pyramids overlooking workers and the Giza plateau.",
+  "generated_at": "2026-06-16T21:50:41"
+}
