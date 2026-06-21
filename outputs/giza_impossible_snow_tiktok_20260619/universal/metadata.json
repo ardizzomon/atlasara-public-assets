@@ -1,0 +1,34 @@
+{
+  "post_id": "giza_impossible_snow_tiktok_20260619",
+  "brand": "history_vision",
+  "brand_display_name": "History Vision",
+  "template": "reveal_4_slide",
+  "platform_templates": {
+    "tiktok": "banner_artwork_mp4",
+    "instagram": "banner_artwork_mp4",
+    "facebook": "banner_artwork_mp4",
+    "youtube": "banner_artwork_mp4"
+  },
+  "pinterest_template": "pinterest_image_only",
+  "cta_slide": {
+    "mode": "follow_account",
+    "header": "HISTORY VISION",
+    "subheader": "LOST WORLDS, MADE VISIBLE",
+    "button_text": "FOLLOW FOR MORE",
+    "footer": "ATLASARA - LOST WORLDS, MADE VISIBLE"
+  },
+  "product_url": "https://beacons.ai/historyvision0",
+  "post_purpose": "validation",
+  "product_status": "testing_demand",
+  "cta_style": "vote",
+  "conversion_goal": "comment_vote",
+  "platforms": [
+    "tiktok",
+    "instagram",
+    "facebook",
+    "youtube"
+  ],
+  "pinterest_uses_separate_pin_layout": false,
+  "alt_text": "Alternate-history image of the pyramids of Giza covered in snow, presented as an impossible climate-shifted winter scene.",
+  "generated_at": "2026-06-19T22:52:08"
+}

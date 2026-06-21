@@ -1,0 +1,12 @@
+Manual upload package for youtube.
+Brand: History Vision.
+Template: banner_artwork_mp4.
+Asset type: mp4_video.
+Post purpose: validation.
+Conversion goal: comment_vote.
+Goal: demand testing. Track comments asking for this as a print, saves, shares, and poll-style responses.
+Upload video.mp4 as a YouTube Short. The MP4 includes the configured local audio file.
+Paste caption.txt and hashtags.txt into the post composer.
+Suggested audio: Choose current YouTube Shorts niche audio when available - YouTube Shorts native audio picker. (For Shorts, use platform-native audio if the upload flow offers it; otherwise use a future licensed embedded music layer.)
+Product URL: https://beacons.ai/historyvision0
+No unofficial login automation is used.
